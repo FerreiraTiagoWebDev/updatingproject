@@ -1,0 +1,68 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.1.1",
+    "@mui/material": "^5.1.1",
+    "@react-icons/all-files": "^4.1.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^9.1.0",
+    "flag-icon-css": "^4.1.5",
+    "i18next": "^21.5.2",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-http-backend": "^1.3.1",
+    "ityped": "^1.0.3",
+    "jquery": "^3.6.0",
+    "material": "^0.4.3",
+    "material-ui": "^0.20.2",
+    "material-ui-country-flags": "^3.0.1",
+    "material-ui-flags": "^1.2.4",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.2",
+    "react-country-flag": "^2.3.1",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.14.2",
+    "react-icons": "^4.3.1",
+    "react-lang-dropdown": "^1.0.4",
+    "react-scripts": "4.0.3",
+    "react-spring": "^9.0.0-rc.3",
+    "sass": "^1.39.0",
+    "styled-components": "^5.3.3",
+    "sweetalert2": "^11.1.7",
+    "ui": "^0.2.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
